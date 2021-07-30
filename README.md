@@ -18,5 +18,6 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 
 ## Code Coverage
+<img width="564" alt="Screenshot 2021-07-30 at 3 16 31 PM" src="https://user-images.githubusercontent.com/353763/127645669-caa12390-32f7-4e82-a564-347ec5e70616.png">
 
 
