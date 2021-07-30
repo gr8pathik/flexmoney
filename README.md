@@ -1,6 +1,10 @@
 ## Note
 I was not able to download the design reference example so I have created my own deisgn.
 
+## Link
+The app can be accessible on below URL.\
+[https://gr8pathik.github.io/flexmoney/](https://gr8pathik.github.io/flexmoney/)
+
 ## Available Scripts
 
 In the project directory, you can run:
