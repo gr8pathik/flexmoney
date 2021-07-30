@@ -1,5 +1,5 @@
 ## Note
-I am not able to download the design reference example so I have created my own deisgn.
+I was not able to download the design reference example so I have created my own deisgn.
 
 ## Available Scripts
 
