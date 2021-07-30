@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBox tests should render the movie data 1`] = `
+<div>
+  <div
+    class="movie-card"
+    data-testid="movie-card"
+  >
+    <div
+      class="movie-right"
+      data-testid="movie-right"
+    >
+      <img
+        alt="Madrid, int."
+        src="https://m.media-amazon.com/images/M/MV5BMzhmNzE5YjItNGZhYi00ZjAzLTkyNjctODQzOTkxOGEyNzA2XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SX300.jpg"
+      />
+    </div>
+    <div
+      class="movie-left"
+    >
+      <div
+        class="movie-header"
+      >
+        <div
+          class="movie-title"
+          data-testid="movie-title"
+        >
+          Madrid, int.
+        </div>
+        <div
+          class="movie-rating"
+          data-testid="movie-rating"
+        >
+          <span>
+            ★
+          </span>
+           
+          7.1
+           / 10
+        </div>
+      </div>
+      <div
+        class="movie-info"
+      >
+        08 May 2020
+         • 
+        75 min
+         • 
+        N/A
+         • 
+        Spanish
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Director:
+        </b>
+         
+        Juan Cavestany
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Writer:
+        </b>
+         
+        N/A
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Actors:
+        </b>
+         
+        Lorena Iglesias, Petra del Rey, Carlos Martínez
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Plot:
+        </b>
+         
+        N/A
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SearchBox tests should render the movie data without poster 1`] = `
+<div>
+  <div
+    class="movie-card"
+    data-testid="movie-card"
+  >
+    <div
+      class="movie-left"
+    >
+      <div
+        class="movie-header"
+      >
+        <div
+          class="movie-title"
+          data-testid="movie-title"
+        >
+          Madrid, int.
+        </div>
+        <div
+          class="movie-rating"
+          data-testid="movie-rating"
+        >
+          <span>
+            ★
+          </span>
+           
+          7.1
+           / 10
+        </div>
+      </div>
+      <div
+        class="movie-info"
+      >
+        08 May 2020
+         • 
+        75 min
+         • 
+        N/A
+         • 
+        Spanish
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Director:
+        </b>
+         
+        Juan Cavestany
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Writer:
+        </b>
+         
+        N/A
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Actors:
+        </b>
+         
+        Lorena Iglesias, Petra del Rey, Carlos Martínez
+      </div>
+      <div
+        class="movie-meta"
+      >
+        <b>
+          Plot:
+        </b>
+         
+        N/A
+      </div>
+    </div>
+  </div>
+</div>
+`;
